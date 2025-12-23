@@ -153,7 +153,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "01773bbb-993d-4ca1-89bb-a42d17ebaa7e")
-		(at 139.23 35.77)
+		(at 139.315 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX6"
@@ -452,7 +452,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "31bfa277-2617-4aac-9d8e-14e4efd77f9e")
-		(at 139.23 54.82)
+		(at 139.315 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX18"
@@ -751,7 +751,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "35774886-c494-419f-a31a-d3dcc560b7cd")
-		(at 63.03 35.77)
+		(at 63.115 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX2"
@@ -1050,7 +1050,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "3a051aeb-5f38-42d0-85a3-d2a81f0a2dfd")
-		(at 43.98 35.77)
+		(at 44.065 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX1"
@@ -1349,7 +1349,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "49d8a4b6-d068-402d-be6a-10ecc571ff87")
-		(at 101.13 35.77)
+		(at 101.215 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX4"
@@ -1648,7 +1648,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "53709483-c323-451e-8150-9e74fe69e9aa")
-		(at 101.13 54.82)
+		(at 101.215 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX16"
@@ -1947,7 +1947,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "67fb61d9-3dd1-4977-b138-fd157ac13a2c")
-		(at 158.28 35.77)
+		(at 158.365 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX7"
@@ -2246,7 +2246,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "7ccd5dde-b36a-4a14-b6c0-0a1920b7c0c8")
-		(at 253.53 35.77)
+		(at 253.615 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX12"
@@ -2545,7 +2545,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "8317368f-71ea-4d4d-90aa-734054d5b8f6")
-		(at 177.33 35.77)
+		(at 177.415 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX8"
@@ -2844,7 +2844,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "83b05e50-1ae9-4aa0-9c1b-c504a28b7a85")
-		(at 196.38 35.77)
+		(at 196.465 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX9"
@@ -3143,7 +3143,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "87c7e734-a51d-4ec6-a6cd-e89aba650f7c")
-		(at 177.33 54.82)
+		(at 177.415 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX20"
@@ -3442,7 +3442,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "93637028-6832-4c92-b2f7-e3ca24fbae81")
-		(at 82.08 35.77)
+		(at 82.165 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX3"
@@ -3741,7 +3741,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "a02e1612-1bdf-42d9-a1e7-64788c5d2de4")
-		(at 120.18 35.77)
+		(at 120.265 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX5"
@@ -4040,7 +4040,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "a250a89a-13df-49cd-ac51-368bad900f0b")
-		(at 63.03 54.82)
+		(at 63.115 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX14"
@@ -4339,7 +4339,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "adf90218-c5bc-4e70-a046-a1f8e88f6509")
-		(at 234.48 54.82)
+		(at 234.565 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX23"
@@ -4638,7 +4638,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "b27137c8-0183-4dc2-a695-c4b5eb6a8d67")
-		(at 253.53 54.82)
+		(at 253.615 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX24"
@@ -4937,7 +4937,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "b5bc3aff-2d83-4c76-b445-7abb3222cb08")
-		(at 158.28 54.82)
+		(at 158.365 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX19"
@@ -5236,7 +5236,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "b6c34c23-a056-449d-848d-f38426a43262")
-		(at 215.43 35.77)
+		(at 215.515 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX10"
@@ -5535,7 +5535,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "bc040c97-f060-4813-81dd-1b1e808ad7d2")
-		(at 120.18 54.82)
+		(at 120.265 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX17"
@@ -5834,7 +5834,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "bcfba066-a162-489f-bc99-d2b29df67417")
-		(at 43.98 54.82)
+		(at 44.065 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX13"
@@ -6133,7 +6133,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "c24b6901-7400-495f-9af9-e48d1da2c024")
-		(at 215.43 54.82)
+		(at 215.515 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX22"
@@ -6432,7 +6432,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "c3dab753-9231-4ab9-8143-690118f06057")
-		(at 234.48 35.77)
+		(at 234.565 35.815)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX11"
@@ -6731,7 +6731,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "e03d2915-c775-4bed-ac4f-44f469f7ad9b")
-		(at 82.08 54.82)
+		(at 82.165 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX15"
@@ -7030,7 +7030,7 @@
 	(footprint "My-Fi Footprints:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "f5c339db-8dbe-42fd-ad47-5a77a5ebe1a1")
-		(at 196.38 54.82)
+		(at 196.465 54.865)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "MX21"
@@ -7329,7 +7329,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "035cc580-271a-45d6-971f-a4b6be312948")
-		(at 104.35 60.159999 -90)
+		(at 104.435 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D16"
@@ -7635,7 +7635,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "12692ddf-a405-48a9-ab0a-ff676ba9c52d")
-		(at 237.7 41.109999 -90)
+		(at 237.785 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D11"
@@ -7941,7 +7941,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "178cd804-58a9-49cb-916f-f1d0bbb96f28")
-		(at 142.45 41.109999 -90)
+		(at 142.535 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D6"
@@ -8247,7 +8247,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "18014e55-bdab-4600-a612-2ce0f3e4253e")
-		(at 123.4 41.109999 -90)
+		(at 123.485 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D5"
@@ -8553,7 +8553,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "1fb728a3-1959-4ae9-94ff-d1cc17c94e56")
-		(at 199.6 41.109999 -90)
+		(at 199.685 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D9"
@@ -8859,7 +8859,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "385fc0bf-5a94-4bcb-98e9-2370d54fda43")
-		(at 85.3 41.109999 -90)
+		(at 85.385 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D3"
@@ -9165,7 +9165,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "386c196d-e1d2-439b-a012-0b9a561f5bfc")
-		(at 142.45 60.159999 -90)
+		(at 142.535 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D18"
@@ -9471,7 +9471,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "3d3ad70f-d751-4c32-bbc3-613c2226a528")
-		(at 218.65 60.159999 -90)
+		(at 218.735 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D22"
@@ -9777,7 +9777,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "464c8185-c791-40db-9104-0b0764564506")
-		(at 180.55 41.109999 -90)
+		(at 180.635 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D8"
@@ -10083,7 +10083,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "48d17b09-f1f8-4575-94ae-f3da4cc25b38")
-		(at 47.2 60.159999 -90)
+		(at 47.285 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D13"
@@ -10389,7 +10389,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "4a7d7c00-f8c1-4420-82bd-d301dd51b9d8")
-		(at 256.75 41.109999 -90)
+		(at 256.835 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D12"
@@ -10695,7 +10695,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "506d7879-3620-4166-9e4e-86480cf16e34")
-		(at 123.4 60.159999 -90)
+		(at 123.485 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D17"
@@ -11001,7 +11001,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "61205bcc-49fa-4eaf-966c-64036a9808f8")
-		(at 199.6 60.159999 -90)
+		(at 199.685 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D21"
@@ -11307,7 +11307,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "707305ce-5a84-40cf-8845-630f5334924f")
-		(at 218.65 41.109999 -90)
+		(at 218.735 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D10"
@@ -11613,7 +11613,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "780adcd5-e9a6-4a14-8630-21526cbc977a")
-		(at 104.35 41.109999 -90)
+		(at 104.435 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D4"
@@ -11919,7 +11919,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "8b533286-1177-4371-9602-612184b10bb1")
-		(at 256.75 60.159999 -90)
+		(at 256.835 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D24"
@@ -12225,7 +12225,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "a018c14e-b13a-4a74-a6fe-6434428ec2b9")
-		(at 180.55 60.159999 -90)
+		(at 180.635 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D20"
@@ -12531,7 +12531,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "a8288647-9bf2-4542-8b1d-e1088b189975")
-		(at 47.2 41.109999 -90)
+		(at 47.285 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D1"
@@ -12837,7 +12837,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "b4187ea6-5ee3-4905-a55c-e69002ab75ee")
-		(at 161.5 41.109999 -90)
+		(at 161.585 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D7"
@@ -13143,7 +13143,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "c3e64680-06ef-4dc7-a69a-562cffd9ab45")
-		(at 66.25 41.109999 -90)
+		(at 66.335 41.154999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D2"
@@ -13449,7 +13449,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "d7a85824-5e0e-4994-812e-80c2e4cc40dd")
-		(at 161.5 60.159999 -90)
+		(at 161.585 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D19"
@@ -13755,7 +13755,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "deb1e36a-d1e2-4d9d-8443-20345f3c5636")
-		(at 85.3 60.159999 -90)
+		(at 85.385 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D15"
@@ -14061,7 +14061,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "e481e348-d5f2-4d3c-a904-a47d649e7e9d")
-		(at 237.7 60.159999 -90)
+		(at 237.785 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D23"
@@ -14367,7 +14367,7 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "f7433494-0a7a-47c3-b533-071ad4fa1cf7")
-		(at 66.25 60.159999 -90)
+		(at 66.335 60.204999 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D14"
