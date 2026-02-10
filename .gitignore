@@ -39,3 +39,5 @@ fp-info-cache
 # Local project settings
 *.kicad_prl
 **/keyautoplace.log
+KiCadFiles/RC-2XXA/production
+KiCadFiles/RC-2XXA/fabrication-toolkit-options.json
