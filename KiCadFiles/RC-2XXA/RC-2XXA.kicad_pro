@@ -225,16 +225,20 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.3,
-          "drill": 0.6
-        },
-        {
-          "diameter": 0.4,
-          "drill": 0.8
-        },
-        {
           "diameter": 0.5,
-          "drill": 1.0
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false
@@ -476,7 +480,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Connector_JST"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
