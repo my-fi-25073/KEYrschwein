@@ -41,3 +41,5 @@ fp-info-cache
 **/keyautoplace.log
 KiCadFiles/RC-2XXA/production
 KiCadFiles/RC-2XXA/fabrication-toolkit-options.json
+KiCadFiles/GRAPPA-LEAF20/production
+KiCadFiles/GRAPPA-LEAF20/fabrication-toolkit-options.json
